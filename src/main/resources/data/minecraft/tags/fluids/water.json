@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "stoneworld:saltwater",
+    "stoneworld:flowing_saltwater",
+    "stoneworld:sulfuric_acid",
+    "stoneworld:flowing_sulfuric_acid"
+  ]
+}

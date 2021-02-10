@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "stoneworld",
+  "version": "${version}",
+  "name": "Stoneworld",
+  "description": "In this Stone world",
+  "authors": [
+    "mrsterner"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/stoneworld/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "stoneworld.Stoneworld"
+    ],
+    "client": ["stoneworld.StoneworldClient"],
+    "server": []
+  },
+  "mixins": [
+    "stoneworld.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*"
+  }
+}
