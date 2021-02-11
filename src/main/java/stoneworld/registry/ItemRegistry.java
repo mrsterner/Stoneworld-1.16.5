@@ -78,4 +78,15 @@ public class ItemRegistry {
     public static final Item  TUNGSTEN_PASTE = of("tungsten_paste");
     public static final Item  VACUUM_TUBE = of("vacuum_tube");
     public static final Item  ZINC_MANGANESE_BATTERY = of("zinc_manganese_battery");
+    //ORES
+    public static final Item  GOLD_CLUSTER = of("gold_cluster");
+    public static final Item  MAGNETITE_CLUSTER = of("magnetite_cluster");
+    public static final Item  GALENA_CLUSTER = of("galena_cluster");
+    public static final Item  MALACHITE_CLUSTER = of("malachite_cluster");
+    public static final Item  CHALCANTHITE_CLUSTER = of("chalcanthite_cluster");
+    public static final Item  CINNABAR_CLUSTER = of("cinnabar_cluster");
+    public static final Item  SILVER_CLUSTER = of("silver_cluster");
+    public static final Item  SCHEELITE_CLUSTER = of("scheelite_cluster");
+    public static final Item  SPHALERITE_CLUSTER = of("sphalerite_cluster");
+    public static final Item  PYROLUSITE_CLUSTER = of("pyrolusite_cluster");
 }
